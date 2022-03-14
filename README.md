@@ -14,27 +14,47 @@
  
 
 🚀 Principal Stack
-  
-    ✨ NODE.JS    ✨ EXPRESS    ✨ MySQL    ✨ REACT
+  <p>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">  
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
+   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">            
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </p>  
     
 🚀 Principal Language    
 
-    ✨ JAVASCRIPT
+   <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
     
 🚀 Backend Developer
-
-    ✨ NODE.JS    ✨ EXPRESS    ✨ MySQL
+  <p>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">  
+   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
+   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+  </P>
   
 🚀 Frontend Developer
-
-    ✨ HTML5    ✨ CSS3    ✨ REACT 
+ <p>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ </p>  
 
 🚀 Tools & Technologies
+ <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+ </p>   
+    
+✨ Social Media
 
-    ✨ GIT    ✨ GITHUB    ✨ POSTMAN    ✨ HEROKU
-    
-    
-### to be continue...
+<p>
+    <a href="https://twitter.com/RossmyCal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/rosemary-calderon-pereira/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>    
+
+### ✨ to be continue...
 
 <!--
 **rosscalpe/RossCalpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
