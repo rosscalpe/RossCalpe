@@ -1,14 +1,14 @@
 ### Ross 🌱
     const soy = { 
-        “name” : “Rosemary Calderon Pereira”,
-        "adress": "Ciudad Autónoma de Buenos Aires, Argentina"
-        “role” : “Full Stack Developer”,
-        “contact” : 
+        name : “Rosemary Calderon Pereira”,
+        adress: "Ciudad Autónoma de Buenos Aires, Argentina"
+        role : “Full Stack Developer”,
+        contact : 
          { 
-          "Linkedin" : "https://www.linkedin.com/in/rosemary-calderon-pereira/", 
-          "Resume"   : "https://github.com/rosscalpe",
-          "Email"    : "rosemarycalderonp@gmail.com",
-          "IG"       : "https://www.instagram.com/rosscalpe/"
+          Linkedin : "https://www.linkedin.com/in/rosemary-calderon-pereira/", 
+          Resume   : "https://github.com/rosscalpe",
+          Email    : "rosemarycalderonp@gmail.com",
+          IG       : "https://www.instagram.com/rosscalpe/"
          }
     }    
  
