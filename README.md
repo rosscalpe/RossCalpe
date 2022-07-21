@@ -2,7 +2,7 @@
 
 ### Ross 🌱                          
 
-    const soy = { 
+    const I am = { 
         name : “Rosemary Calderon Pereira”,
         adress: "Ciudad Autónoma de Buenos Aires, Argentina"
         role : “Full Stack Developer, Backend oriented”,
